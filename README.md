@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rana Zubair Ahmad
 
-<!--
-**Rana-Zubair-Ahmad/Rana-Zubair-Ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack JavaScript Developer with 4+ years of experience building robust, scalable, and maintainable web applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**  
+- Vue.js (v2 & v3), Nuxt.js  
+- React.js, Next.js  
+- Vuex, Pinia, Redux, Zustand  
+- Vuetify, Quasar, Bootstrap Vue, Tailwind CSS  
+- JavaScript (ES6+), HTML, CSS  
+
+**Backend:**  
+- Node.js, Express.js  
+- MongoDB, RESTful APIs, WebSockets  
+
+**Tools & Practices:**  
+- Git, Docker, Vite, Webpack  
+- Postman, Jest, Selenium  
+- Agile Methodologies, CI/CD, Issue Tracking Systems
+
+## 📂 Key Expertise
+
+- Full Stack Web Application Development  
+- Component-Based Frontend Architecture  
+- API Design & Integration  
+- Real-Time Features using WebSockets  
+- Data-Driven Dashboards and Admin Panels
+
+## 📌 Goals
+
+- Deliver clean, efficient, and scalable code  
+- Continuously improve system performance and user experience  
+- Stay current with modern JavaScript ecosystems and tools
