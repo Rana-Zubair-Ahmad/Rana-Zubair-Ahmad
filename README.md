@@ -1,35 +1,41 @@
-# Hi, I'm Rana Zubair Ahmad
+# Rana Zubair Ahmad
 
-Full Stack JavaScript Developer with 4+ years of experience building robust, scalable, and maintainable web applications.
+**Full Stack JavaScript Developer** with 4+ years of experience designing and developing scalable, high-performance web applications using modern JavaScript technologies.
 
-## 💻 Tech Stack
+---
 
-**Frontend:**  
-- Vue.js (v2 & v3), Nuxt.js  
-- React.js, Next.js  
-- Vuex, Pinia, Redux, Zustand  
-- Vuetify, Quasar, Bootstrap Vue, Tailwind CSS  
-- JavaScript (ES6+), HTML, CSS  
+## 🛠️ Technical Skills
 
-**Backend:**  
+**Frontend Development**  
+- Frameworks: Vue.js (v2 & v3), Nuxt.js, React.js, Next.js  
+- State Management: Vuex, Pinia, Redux, Zustand  
+- UI Libraries: Vuetify, Quasar, Bootstrap Vue, Tailwind CSS  
+- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+
+**Backend Development**  
 - Node.js, Express.js  
-- MongoDB, RESTful APIs, WebSockets  
+- MongoDB, RESTful APIs, WebSockets
 
-**Tools & Practices:**  
+**Development Tools & Practices**  
 - Git, Docker, Vite, Webpack  
 - Postman, Jest, Selenium  
 - Agile Methodologies, CI/CD, Issue Tracking Systems
 
-## 📂 Key Expertise
+---
+
+## ✅ Core Competencies
 
 - Full Stack Web Application Development  
-- Component-Based Frontend Architecture  
-- API Design & Integration  
-- Real-Time Features using WebSockets  
-- Data-Driven Dashboards and Admin Panels
+- Scalable Frontend Architecture & Component Design  
+- API Development & Integration  
+- Real-Time Features with WebSockets  
+- Interactive Dashboards & Admin Panels  
+- Clean Code, Testing, and Performance Optimization
 
-## 📌 Goals
+---
 
-- Deliver clean, efficient, and scalable code  
-- Continuously improve system performance and user experience  
-- Stay current with modern JavaScript ecosystems and tools
+## 🎯 Professional Objectives
+
+- Build maintainable and scalable full stack solutions  
+- Optimize user experience and application performance  
+- Stay up-to-date with modern JavaScript frameworks and best practices
